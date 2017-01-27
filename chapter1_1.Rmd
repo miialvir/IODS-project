@@ -1,0 +1,8 @@
+# **Intoduction to Open Data Science, spring 2017**
+
+## This is a basic course for learning to use RStudio
+
+## https://github.com/miialvir/IODS-project
+
+
+
